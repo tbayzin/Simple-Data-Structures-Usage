@@ -2,9 +2,7 @@
 
 
 Simple data structures usage with samples. <br>
- <a href="
-https://github.com/tbayzin/Simple-Data-Structures-Usage/tree/master/Classes-Samples/Arrays
-">Arrays</a>
+ <a href="https://github.com/tbayzin/Simple-Data-Structures-Usage/tree/master/Classes-Samples/Arrays">Arrays</a>  <br>
 Stacks   <br>
 Maps    <br>
 Queues     <br>
