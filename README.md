@@ -9,7 +9,7 @@
 Stacks   <br>
 Maps    <br>
 Queues     <br>
-Linked Lists  <br>
+<b> <a href="https://github.com/tbayzin/Simple-Data-Structures-Usage/tree/master/Classes-Samples/LinkedList">Linked Lists</a> </b> <br>
 Trees  <br>
 Graphs   <br>
 Tries (Part of trees but worth to seperate)  <br>
