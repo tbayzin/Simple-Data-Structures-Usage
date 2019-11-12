@@ -4,4 +4,4 @@ An array is used to store a collection of data, but it is often more useful to t
 Instead of declaring individual variables, such as number0, number1, ..., and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and ..., numbers[99] to represent individual variables. <br>
 
 
-<b> <a href="https://www.tutorialspoint.com">Description Source</a> </b>   
+<b> <a href="https://www.geeksforgeeks.org/">Description Source</a> </b>   
