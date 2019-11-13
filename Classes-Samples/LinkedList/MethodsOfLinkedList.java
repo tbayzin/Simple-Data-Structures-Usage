@@ -44,4 +44,4 @@
 40. toArray​(T[] a): This method returns an array containing all of the elements in this list in proper sequence (from first to last element); the runtime type of the returned array is that of the specified array.
   
   
-  www.geeksforgeeks.org/
+  www.geeksforgeeks.org
