@@ -1,4 +1,4 @@
-Methods of linkedlist in Java are listed below.
+<b> Methods of linkedlist in Java are listed below. </b>
 
 
 
