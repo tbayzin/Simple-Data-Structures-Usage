@@ -4,4 +4,4 @@ The elements are linked using pointers and addresses. Each element is known as a
 To store the elements in a linked list we use a doubly linked list which provides a linear data structure and also used to inherit an abstract class and implement list and deque interfaces. <br> <br>
 
  </p>
-<b> <a href="https://www.tutorialspoint.com">Description Source</a> </b>   
+<b> <a href="https://www.geeksforgeeks.org/">Description Source</a> </b>   
