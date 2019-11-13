@@ -42,3 +42,6 @@
 38. spliterator​(): This method Creates a late-binding and fail-fast Spliterator over the elements in this list.
 39. toArray​(): This method returns an array containing all of the elements in this list in proper sequence (from first to last element).
 40. toArray​(T[] a): This method returns an array containing all of the elements in this list in proper sequence (from first to last element); the runtime type of the returned array is that of the specified array.
+  
+  
+  www.geeksforgeeks.org/
