@@ -5,3 +5,6 @@ To store the elements in a linked list we use a doubly linked list which provide
 
  </p>
 <b> <a href="https://www.geeksforgeeks.org/">Description Source</a> </b>   
+
+<b> <a href="https://github.com/tbayzin/Simple-Data-Structures-Usage/blob/master/Classes-Samples/LinkedList/MethodsOfLinkedList.java/">Methods of LinkedList for Java</a> </b>   
+
