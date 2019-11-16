@@ -6,6 +6,7 @@
 
 
 <b> <a href="https://github.com/tbayzin/Simple-Data-Structures-Usage/tree/master/Classes-Samples/Arrays">Arrays</a> </b>   <br>
+Arraylist <br>
 Stacks   <br>
 Queues     <br>
 <b> <a href="https://github.com/tbayzin/Simple-Data-Structures-Usage/tree/master/Classes-Samples/LinkedList">Linked Lists</a> </b> <br>
