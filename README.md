@@ -1,4 +1,6 @@
 # Simple-Data-Structures-Usage
+[![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/tbayzin/Simple-Data-Structures-Usage/blob/master/LICENSE)
+
 
 <i> Simple and fundamental usage of data structures. This repository will give a clue about usage of data structures. <br>
 <i> Since each class is another sample,I didnt add any package  or project folder. <br> <br>
