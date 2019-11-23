@@ -20,9 +20,7 @@ public class LinkedListBasic {
 		// Printing our linkedlist to screen
         System.out.println("Our linked list contains :  " + countries); 
         
-        
-        
-        
+      
         // Removing first element Japan
         countries.removeFirst(); 
         // Removing last element Korea
