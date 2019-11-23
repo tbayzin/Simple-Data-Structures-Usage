@@ -1,7 +1,7 @@
 # Simple-Data-Structures-Usage
 
 
-[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)]LICENSE)
+[![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
 
 <i> Simple and fundamental usage of data structures. This repository will give a clue about usage of data structures. <br>
