@@ -15,7 +15,7 @@ public class LinkedListBasic {
 		countries.add("Japan"); 
 		countries.add("China"); 
 		countries.addLast("Korea"); 
-		countries.addLast("Korea"); 
+		countries.addLast("India"); 
         
 		// Printing our linkedlist to screen
         System.out.println("Our linked list contains :  " + countries); 
