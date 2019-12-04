@@ -4,7 +4,7 @@
 [![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)](https://opensource.org/licenses/EPL-1.0)
 
 
-<i> Simple and fundamental usage of data structures in <b> Java. This repository will give a clue about usage of data structures. <br>
+<i> Simple and fundamental usage of data structures in <b> Java </b>. This repository will give a clue about usage of data structures. <br>
 <i> Since each class is another sample,I didnt add any package  or project folder. <br>
 
   
