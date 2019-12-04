@@ -6,7 +6,8 @@
 
 <i> Simple and fundamental usage of data structures. This repository will give a clue about usage of data structures. <br>
 <i> Since each class is another sample,I didnt add any package  or project folder. <br>
- <b> Samples are in Java <br>
+<I> Samples are in Java <br> <br>
+  
 
 
 
