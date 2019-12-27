@@ -18,6 +18,7 @@ Queues     <br>
 <b> <a href="https://github.com/tbayzin/Simple-Data-Structures-Usage/tree/master/Classes-Samples/LinkedList">Linked Lists</a> </b> <br>
 Trees  <br>
 Graphs   <br>
+Heaps   <br>
 Tries (Part of trees but worth to seperate)  <br>
 Hash Maps <br>
 <b> <a href="https://github.com/tbayzin/Simple-Data-Structures-Usage/tree/master/Classes-Samples/Hash_Tables">Hash Tables</a> </b>   <br>
